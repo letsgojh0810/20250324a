@@ -16,7 +16,7 @@ class Step07CicdApplicationTests {
 		assertEquals(5, result); // 성공: 5 == 5
 		System.out.println("비교 후");
 		System.out.println("비교 후12");
-		System.out.println("비교 후12");
+		System.out.println("비교 후dd12");
 	}
 
 }
